@@ -8,7 +8,7 @@ Hello, I am Sarina Virk! I attend California State University Fullerton (CSUF) a
 
   I really enjoyed the first lab because it was the first time I got to write a code. In this lab, we were asked to print “Hello world!” and then edit it so that it says “Hello (our name)!”. Even though it was a simple lab, I was excited to see how the code executed once we pushed it. I also got a better understanding of how to use Github through this lab.
 
-* Lab 6, part 2
+* Lab 6, Part 2
 
   This was one of my favorite labs because I have been wanting to learn how to play Blackjack. It was interesting to learn the rules through writing code rather than learning with actual playing cards. I was also able to practice writing if statements, which I did not understand at first, but then eventually learned through this lab. I enjoyed learning how to write boolean statements in this lab. 
 
